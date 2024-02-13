@@ -1,4 +1,4 @@
-# MHCompany.Privacy_en
+#Privacy Policy
 
 [한국어](https://fooiff.github.io/MHCompany.Privacy/)
 
