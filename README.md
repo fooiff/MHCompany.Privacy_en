@@ -1,5 +1,9 @@
 # MHCompany.Privacy_en
 
+[한국어](https://fooiff.github.io/MHCompany.Privacy/)
+
+[SERVICE](https://fooiff.github.io/MHCompany.Service_en/)
+
 １. Purpose of processing personal information
 
 Memory & Happyness Games Company('https://play.google.com/store/apps/dev?id=8290699567799906041', 'MH Games') processes personal information for the following purposes and does not use it for any purpose other than the following purposes.
