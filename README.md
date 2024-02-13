@@ -10,7 +10,7 @@ Confirmation of the customer's intention to subscribe, identification and authen
 
 ２. Processing and retention period of personal information
 
-① 'MCH Games' shall process and retain personal information within the period of personal information retention and use agreed upon when collecting personal information from the information subject or within the period of personal information retention and use in accordance with laws and regulations.
+① 'MH Games' shall process and retain personal information within the period of personal information retention and use agreed upon when collecting personal information from the information subject or within the period of personal information retention and use in accordance with laws and regulations.
 
 ② The specific personal information processing and retention periods are as follows.
 
@@ -28,7 +28,7 @@ The user may exercise the following rights as a personal information subject.
 
 ４. Destruction of personal information
 
-In principle, 'MCH Games' destroys personal information without delay when the purpose of processing personal information is achieved. The procedure, deadline, and method of destruction are as follows.
+In principle, 'MH Games' destroys personal information without delay when the purpose of processing personal information is achieved. The procedure, deadline, and method of destruction are as follows.
 
 ① Destruction procedure
 
@@ -41,13 +41,13 @@ The personal information of the user shall be destroyed within 5 days from the e
 
 ５. Installation, operation, and rejection of automatic personal information collection devices
 
-'MCH Games' does not use 'cookies' that store and retrieve the usage information of the information subject from time to time. 　
+'MH Games' does not use 'cookies' that store and retrieve the usage information of the information subject from time to time. 　
 
 
 
 ６. Personal Information Protection Officer
 
-① 'MCH Games' is responsible for the overall management of personal information processing, and appoints a personal information protection officer as follows to handle complaints and damage relief of information subjects related to personal information processing.
+① 'MH Games' is responsible for the overall management of personal information processing, and appoints a personal information protection officer as follows to handle complaints and damage relief of information subjects related to personal information processing.
 
 Personal Information Protection Officer
 
@@ -55,7 +55,7 @@ Name : Wonhoon Choi
 Position : Master
 Position : Master
 Contact :-, mail@thetutor.co.kr, -
-② The information subject may contact the person in charge of personal information protection for all personal information protection-related inquiries, complaints, damage relief, etc. that occurred while using the service (or business) of 'MCH Games'. 'MCH Games' will respond and process the information subject's inquiries without delay. 　
+② The information subject may contact the person in charge of personal information protection for all personal information protection-related inquiries, complaints, damage relief, etc. that occurred while using the service (or business) of 'MH Games'. 'MH Games' will respond and process the information subject's inquiries without delay. 　
 
 
 
@@ -63,7 +63,7 @@ Contact :-, mail@thetutor.co.kr, -
 
 This Privacy Policy shall be applied from the effective date, and if there is any addition, deletion, or correction of changes in accordance with laws and policies, we will notify you through the notice 7 days prior to the implementation of the changes. 　
 
-８. Measures to ensure the safety of personal information In accordance with Article 29 of the Personal Information Protection Act, MCH Games takes the following technical/administrative and physical measures necessary to ensure safety.
+８. Measures to ensure the safety of personal information In accordance with Article 29 of the Personal Information Protection Act, MH Games takes the following technical/administrative and physical measures necessary to ensure safety.
 
 ①. Establishment and implementation of internal management plan
 
